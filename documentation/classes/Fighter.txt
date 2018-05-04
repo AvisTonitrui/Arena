@@ -1,0 +1,87 @@
+Class: Fighter
+
+HD: d10
+Proficiencies: All armor, shields
+Weapons: SImple and martial
+Saving Throws: Strength, Constitution
+Skills: Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Initimidation, Perception, Survival
+
+Level 1: +2
+	Fighting Style
+	Second Wind
+
+Level 2: +2
+	Action Surge (one use)
+
+Level 3: +2
+	Martial Archetype
+
+Level 4: +2
+	Ability Score Improvement
+
+Level 5: +3
+	Extra Attack
+
+Level 6: +3
+	Ability Score Improvement
+
+Level 7: +3
+	Martial Archetype Feature
+
+Level 8: +3
+	Ability Score Improvement
+
+Level 9: +4
+	Indomitable (one use)
+
+Level 10: +4
+	Martial Archetype Feature
+
+Level 11: +4
+	Extra Attack (2)
+
+Level 12: +4
+	Ability Score Improvement
+
+Level 13: +5
+	Indomitable (two uses)
+
+Level 14: +5
+	Ability Score Improvement
+
+Level 15: +5
+	Martial Archetype Feature
+
+Level 16: +5
+	Ability Score Improvement
+
+Level 17: +6
+	Action surge (two uses)
+	Indomitable (three uses)
+
+Level 18: +6
+	Martial Archetype Feature
+
+Level 19: +6
+	Ability Score Improvements
+
+Level 20: +6
+	Extra Attack (3)
+
+FIghting Styles:
+	Archery: +2 to attack rolls made with ranged weapons
+	Defense: While wearing armor, +1 to AC
+	Dueling: While holding a melee weapon in one hand and no other weapons, +2 to damage
+	Great Weapon Fighting: reroll 1s and 2s on damage when using two-handed weapon (includes versatile using two hands)
+	Protection: When someone else is attacked, can react to impose disadvantage on the attack roll. Must have a shield.
+	Two-Weapon Fighting: YOu can add your ability modifier to the second attack
+
+Second Wind: Recover 1d10 + level HP as a bonus action (short rest heals)
+
+Action Surge: On your turn, you may take an additional action (short rest heals, only once per turn)
+
+Martial Archetype: See Subfolder
+
+Extra Attack: You can attack twice whenever you take an attack action on your turn, increases at certain levels
+
+Indomitable: You can reroll a saving throw that you fail. (long rest heals)

@@ -1,3 +1,6 @@
+Update alpha 1.1: 2018-05-03 22:47
+	Wrote down fighter class, just need to put down his martial archetypes and all info required should be done for him.
+
 Update Alpha 1.0: 2018-05-03 22:26
 	And so it begins, I'm going to try and make my first text-based RPG
 	Doing this python because I like the language and technical restrictions
