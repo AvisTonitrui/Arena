@@ -1,0 +1,11 @@
+Champion Martial Archetype:
+
+3rd Level: You score a critical hit on a 19 or 20
+
+7th Level: You can add half your proficiency bonus (round up) to any STR, DEX, or CON check that doesn't already use your proficiency bonus.
+
+10th Level: You can choose and additional Fighting style
+
+15th Level: You score a critical hit on 18 - 20
+
+18th Level: if under half health and over 0 regain 5 + CON mod. HP at the start of your turn

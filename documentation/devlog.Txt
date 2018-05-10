@@ -1,4 +1,8 @@
-Update alpha 1.1: 2018-05-03 22:47
+Update Alpha 1.2: 2018-05-09 22:27
+	Finished up fighter (will possibly add more martial archetypes in later
+	Got Barb skeleton down
+
+Update Alpha 1.1: 2018-05-03 22:47
 	Wrote down fighter class, just need to put down his martial archetypes and all info required should be done for him.
 
 Update Alpha 1.0: 2018-05-03 22:26

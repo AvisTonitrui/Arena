@@ -2,9 +2,8 @@ Class: Fighter
 
 HD: d10
 Proficiencies: All armor, shields
-Weapons: SImple and martial
+Weapons: Simple and martial
 Saving Throws: Strength, Constitution
-Skills: Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Initimidation, Perception, Survival
 
 Level 1: +2
 	Fighting Style
