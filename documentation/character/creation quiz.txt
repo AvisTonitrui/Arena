@@ -1,0 +1,21 @@
+This is the quiz used for creating a character, this will use the point buy system and each question is a point assigned.
+It is disguised as an intake form for new prisoners
+
+Welcome to the arena, your one chance at redemption. Before we can let you try to earn your freedom, we need you to answer a few questions.
+
+First off I'll need your gender for rooming purposes. We try to give everyone a bit more of a comfortable time.
+1. Male
+2. Female
+
+What is your desired weapon?
+1. Bow and arrows
+2. Sword and shield
+3. Twin swords
+4. A greatsword
+5. Sword and Dagger
+
+What is your desired Armor?
+1. Chain Mail
+2. Leather
+3. Cloth
+
