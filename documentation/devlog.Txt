@@ -1,3 +1,6 @@
+Update Alpha 1.3: 2018-05-18 14:43
+	Decide to only use fighter and its different styles as choices, for easier balancing
+
 Update Alpha 1.2: 2018-05-09 22:27
 	Finished up fighter (will possibly add more martial archetypes in later
 	Got Barb skeleton down
